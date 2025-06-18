@@ -7,7 +7,7 @@
 🌱 No momento estou focado em aprender mais sobre:
 
 - 🔸 **Front-End**: HTML, CSS, JavaScript e frameworks modernos
-- 🔸 **Back-End**: PHP, MySQL, Python e C#
+- 🔸 **Back-End**: PHP e Mysql
 - 🔸 **Banco de Dados**: Modelagem e SQL (MySQL)
 - 🔸 **Versionamento de Código**: Git & GitHub
 - 🔸 **Boas Práticas de Programação** e **Banco de Dados**
