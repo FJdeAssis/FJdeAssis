@@ -18,11 +18,6 @@
 - Contribuir para projetos open source 🧑‍💻
 - Melhorar minhas habilidades de **Full Stack Developer** ⚡
 
-📫 Onde você pode me encontrar:
-
-- ✉️ Email: fjuniodeassis@gmail.com
-- 🌐 GitHub: [FJdeAssis](https://github.com/FJdeAssis)
-
 ---
 
 ## 📊 Minhas Estatísticas no GitHub:
